@@ -40,6 +40,8 @@
 
 * ### <h3 style="color:#00CED1"> *Создание ветки*
 
+<img src="gitbranch.jpg" width="400" height="200" alt="pic.2">
+
 Для того, чтобы создать ветку, используется команда ***git branch***. Делается это следующим образом в папке с репозиторием: ***git branch <название новой ветки>***
 
 * ### <h3 style="color:#00CED1"> *Слияние веток*
@@ -79,3 +81,5 @@
     [Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
     [Краткое руководство](https://paulradzkov.com/2014/markdown_cheatsheet/)
     [Полезные Расширения](https://coderscat.com/awesome-vscode-extensions-for-markdown/)
+
+    <img src="github.jpg" width="100" height="80" alt="pic.3">
