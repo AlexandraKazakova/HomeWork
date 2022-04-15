@@ -75,4 +75,5 @@
     [Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
     [Краткое руководство](https://paulradzkov.com/2014/markdown_cheatsheet/)
     [Полезные Расширения](https://coderscat.com/awesome-vscode-extensions-for-markdown/)
+
     <img src="github.jpg" width="100" height="80" alt="pic.3">
