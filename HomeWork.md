@@ -16,7 +16,7 @@
 
 * ### <h3 style="color:#1E90FF"> *Git add*
 
-Для добавления измений в коммит используется команда ***git add***. Чтобы использовать команду ***git add*** напишите ***git add <имя файла>*** 
+Для добавления измений в коммит используется команда ***git add***. Чтобы использовать команду ***git add*** напишите ***git add <имя файла>***
 
 * ### <h3 style="color:#1E90FF"> *Git status*
 
@@ -50,6 +50,8 @@
 
 Для удаления ветки ввести команду ***git branch -d 'name branch'***
 
+***
+
 !!! note <font style="color:#000080"> *Шпаргалка* </font>
     | <font style="color:#000080"> Команда | <font style="color:#000080"> Назначение |
     |--|--|
@@ -69,6 +71,8 @@
     | <font style="color:#FF0000"> git merge --continue | продолжит слияние |
     | <font style="color:#FF0000"> git checkout --ours | выбрать файл папки main/master |
     | <font style="color:#FF0000"> git checkout --their | выбрать файл из ветки |
+
+***
 
 !!! note <font style="color:#000080"> *Полезные ссылки для для GIT и Markdown*
     [Github](https://github.com/sandino/Markdown-Cheatsheet)
