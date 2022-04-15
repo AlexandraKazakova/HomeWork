@@ -1,7 +1,6 @@
 # ***<font color = 0000CD>Инструкция для работы с Git и удалёнными репозиториями*** </font>
 
 ***
-
 ## <font color = 000080> *Что такое Git?* </font>
 
 <img src="image1.jpeg" width="200" height="100" alt="pic.1">
